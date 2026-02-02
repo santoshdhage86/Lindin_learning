@@ -50,3 +50,5 @@
 	"postAttachCommand": "git pull --all",
 	"postCreateCommand": "sh .devcontainer/startup.sh"
 }
+
+Test
